@@ -1,5 +1,5 @@
 {
-  "name": "primeira-pwa-app",
+  "name": "yes",
   "version": "1.0.0",
   "description": "Esta é a primeira pwa, usando vanilla JS",
   "main": "index.html",
@@ -10,14 +10,13 @@
   "author": "Renato de Souza Garcia",
   "license": "ISC",
   "dependencies": {
-    "serve": "^13.0.4",
+    "serve": "^14.2.4",
     "workbox-cacheable-response": "^6.5.4",
     "workbox-expiration": "^6.5.4",
     "workbox-recipes": "^6.5.4",
     "workbox-routing": "^6.5.4",
     "workbox-strategies": "^6.5.4",
     "workbox-streams": "^6.5.4"
-  }
+  },
+  "devDependencies": {}
 }
-
-
