@@ -10,12 +10,14 @@
   "author": "Renato de Souza Garcia",
   "license": "ISC",
   "dependencies": {
-    "serve": "^14.2.4",
     "workbox-cacheable-response": "^6.5.4",
     "workbox-expiration": "^6.5.4",
     "workbox-recipes": "^6.5.4",
     "workbox-routing": "^6.5.4",
     "workbox-strategies": "^6.5.4",
     "workbox-streams": "^6.5.4"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
   }
 }
